@@ -2,7 +2,7 @@
 
 ## Attendees
 
-No quorum today...
+No quorum today... 
 
 * Jim Truher
 * Dongbo Wang
