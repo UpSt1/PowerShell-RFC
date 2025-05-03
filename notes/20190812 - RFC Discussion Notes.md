@@ -1,7 +1,7 @@
 # RFC Meeting - July 22, 2019
 
 ## Attendees
- 
+  
 * Steve Lee
 * Jim Truher
 * Dongbo Wang
