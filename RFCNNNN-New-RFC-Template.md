@@ -4,7 +4,7 @@ Author: <First Last>
 Status: <Draft | Experimental | Accepted | Rejected | Withdrawn | Final>
 SupercededBy: <link to another RFC>
 Version: <Major>.<Minor>
-Area: <Area within the PowerShell language>
+Area: <Area within the PowerShell  language>
 Comments Due: <Date for submitting comments to current draft (minimum 1 month)>
 Plan to implement: <Yes | No>
 ---
