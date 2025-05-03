@@ -62,7 +62,7 @@ This is the initial draft of an RFC posted for comments and considered a work-in
   This signals to the Committee that the RFC is ready for their formal review.
 * At this point, the Committee will add a `Review - Committee` label.
 
-### Experimental Feature
+### Experimental Feature 
 
 Experimental features are used to provide a working example of proposed designs in order for the
 Committee and other users to understand real-world usage of the proposal.
