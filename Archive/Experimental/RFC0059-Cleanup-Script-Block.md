@@ -6,7 +6,7 @@ Area: Language
 Comments Due: 8/15/2021
 ---
 
-# Resource cleanup for function and script cmdlet
+# Resource cleanup for function and script cmdlet 
 
 Functions in PowerShell are highly versatile, but don't always have the capabilities to manage resources correctly.
 For example, in .NET there are many types which implement `IDisposable`, advising that their `Dispose()` method should be used to clean them up when they're no longer needed.
