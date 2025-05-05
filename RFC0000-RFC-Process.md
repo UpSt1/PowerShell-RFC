@@ -3,8 +3,8 @@ RFC: RFC0001
 Author: Steve Lee, Joey Aiello
 Status: Draft
 Area: Process
-Version: new
-Feedback: https://github.com/PowerShell/PowerShell-Language-RFC/issues/1
+Version: 
+Feedback: https://github.com/PowerShell/PowerShell-Language-RFC/issues/5
 ---
 
 # PowerShell RFC Process and Guidelines
