@@ -1,10 +1,10 @@
 ---
-RFC: RFC0000
+RFC: RFC0001
 Author: Steve Lee, Joey Aiello
 Status: Draft
 Area: Process
-Version: 1.4
-Feedback: https://github.com/PowerShell/PowerShell-Language-RFC/issues/5
+Version: new
+Feedback: https://github.com/PowerShell/PowerShell-Language-RFC/issues/1
 ---
 
 # PowerShell RFC Process and Guidelines
