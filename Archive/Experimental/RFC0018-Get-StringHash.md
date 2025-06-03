@@ -201,3 +201,4 @@ Commmittee agrees that this RFC satisfies the motivation for supporting hashing 
 ### Minority Decision
 
 N/A
+
