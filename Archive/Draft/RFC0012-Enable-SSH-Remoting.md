@@ -87,3 +87,4 @@ Warning: Permanently added 'localhost' (ECDSA) to the list of known hosts.
 
 ## Alternate Proposals and Considerations
 One difficulty with this is installing SSH as needed.  Different platforms will have different installation packages.  This could be simplified by detecting if SSH is installed and if not then asking the user to first install it before continuing.  But I feel it is worthwhile to make installation automatic for supported platforms.  The cmdlet should be designed so that it is easy to add new supported platforms.  We should support the same platforms that PowerShell is supported on: Win32, Ubuntu 14/16, CentOS7, MacOS10.
+
