@@ -65,4 +65,4 @@ version of PowerShell where `Set-StrictMode` uses dynamic scoping instead of lex
 
 * Should `Set-StrictMode -Off` have any effect?
 * Should there be an easy way to use lexical strict mode to apply to a module that consists of multiple ps1 files?
-Maybe a module manifest entry?  
+Maybe a module manifest entry?
